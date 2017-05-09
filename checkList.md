@@ -7,3 +7,4 @@
 * Cannot save to USB
 * Admins must be able to login with the same password
 * Naming convention for workstations
+* First login - Change password
