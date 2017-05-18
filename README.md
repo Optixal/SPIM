@@ -36,6 +36,7 @@
 * [x] Passwords should be allowed to be changed to be users - after expiry (90 days mentioned below) will lock out user. Send reminder maybe a week before (Elroy)
 * [ ] Personal devices allowed inside - signed NDA (prob policy)
 * [ ] Prob have firewall block all, no remote access, no port opens
+* [ ] Admins must be able to login with the same password
 
 ## OS and Applications
 * [ ] OS: Windows 10 
