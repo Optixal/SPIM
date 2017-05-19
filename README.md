@@ -74,7 +74,17 @@
 * [ ] not be the same as the account ID or user ID.
  
 ## Software Purchase and Installation
-* [ ] All software to be installed on workstations must be acquired through the LIC.
+* [x] All software to be installed on workstations must be acquired through the LIC.
+         Steps:
+        -click Group policy management
+        -edit GPO
+        -click computer configurations
+        -click Policies
+        -click Windows settings
+        -click security settings
+        -click local policies
+        -click security options
+        -click User account Control : Detect application installation and ....
 * [ ] PO will manage centrally licensed software such as email, anti-virus, and application software.
 
 ## Data storage
