@@ -54,9 +54,19 @@
 
 ## Workstation security configuration
 * [ ] All LET workstations will have an administrative account;
-* [ ] Only the LIC and PO will have Administrator level access to workstations (Wen Jun)
+* [x] Only the LIC and PO will have Administrator level access to workstations (Wen Jun)
 * [ ] Periodic reviews of Administrator group membership will be performed;
-* [ ] Workstations are locked down to prevent software installation or configuration modification by anyone other than the LIC or PO (Wen Jun)
+* [x] Workstations are locked down to prevent software installation or configuration modification by anyone other than the LIC or PO (Wen Jun)
+* Steps:
+* click Group policy managemen
+* edit GPO
+* click computer configurations
+* click Policies
+* click Windows settings
+* click security settings
+* click local policies
+* click security options
+* click User account Control : Detect application installation and ....
 * [ ] Workstation names should follow the naming convention of LET-# asset tag (eg. 13573) (gonna do on Win10)
 * [ ] At least once a year, the workstation inventory information should be reviewed and updated for all workstations;
 * [ ] Periodic audits of workstations will be conducted to ensure that they remain in compliance; and
@@ -74,17 +84,7 @@
 * [ ] not be the same as the account ID or user ID.
  
 ## Software Purchase and Installation
-* [x] All software to be installed on workstations must be acquired through the LIC.
-* Steps:
-* click Group policy managemen
-* edit GPO
-* click computer configurations
-* click Policies
-* click Windows settings
-* click security settings
-* click local policies
-* click security options
-* click User account Control : Detect application installation and ....
+* [ ] All software to be installed on workstations must be acquired through the LIC.
 * [ ] PO will manage centrally licensed software such as email, anti-virus, and application software.
 
 ## Data storage
