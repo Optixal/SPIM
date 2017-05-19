@@ -30,9 +30,9 @@
 * [ ] Internet access office all workstations - university's network lan cable, not wireless
 * [ ] Ppl cant plug anything into the lan cable - prob mac filtering (Shawn)
 * [ ] Caught locally storing data, will be scolded
-* [x] Try not to let users save stuff locally (Aloysius)
+* [x] Try not to let users save stuff locally (Aloysius) (http://www.windowsnetworking.com/kbase/WindowsTips/Windows2003/AdminTips/Admin/SettingUpDiskQuotaswithGroupPolicy.html)
 * [ ] Physical policy - no personal keyboards, mouse, usb hard drive, esp those with on-board-storage, no personal usb peripherals
-* [ ] Prevent usb from connecting / read write (Aloysius)
+* [x] Prevent usb from connecting / read write (Aloysius) (https://support.microsoft.com/en-us/help/555324)
 * [x] Passwords should be allowed to be changed to be users - after expiry (90 days mentioned below) will lock out user. Send reminder maybe a week before (Elroy)
 * [ ] Personal devices allowed inside - signed NDA (prob policy)
 * [ ] Prob have firewall block all, no remote access, no port opens
