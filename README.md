@@ -46,7 +46,7 @@
 * [ ] Open Office (https://www.openoffice.org/download/index.html)
 * [ ] Adobe Acrobat (https://get.adobe.com/reader/)
 * [ ] Adobe Flash (https://get.adobe.com/flashplayer/)
-* [ ] DAZ Studio (Evaluation) (On 1 workstation only)
+* [ ] DAZ Studio (Evaluation) (On 1 workstation only) (https://www.daz3d.com/get_studio)
  
 ## LET Image 
 * [ ] All workstations connecting to network are required to display the following image before the login screen:
