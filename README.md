@@ -40,12 +40,12 @@
 
 ## OS and Applications
 * [ ] OS: Windows 10 
-* [ ] AVG anti-virus
+* [ ] AVG anti-virus (http://www.avg.com/ww-en/homepage)
 * [ ] Internet Explorer 11
-* [ ] Java SE 8 Update 65 or higher higher
-* [ ] Open Office
-* [ ] Adobe Acrobat
-* [ ] Adobe Flash
+* [ ] Java SE 8 Update 65 or higher higher (http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html)
+* [ ] Open Office (https://www.openoffice.org/download/index.html)
+* [ ] Adobe Acrobat (https://get.adobe.com/reader/)
+* [ ] Adobe Flash (https://get.adobe.com/flashplayer/)
 * [ ] DAZ Studio (Evaluation) (On 1 workstation only)
  
 ## LET Image 
