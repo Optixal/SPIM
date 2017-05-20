@@ -55,7 +55,7 @@
 ## Workstation security configuration
 * [ ] All LET workstations will have an administrative account;
 * [x] Only the LIC and PO will have Administrator level access to workstations (Wen Jun)
-* [ ] Periodic reviews of Administrator group membership will be performed;
+* [ ] Periodic reviews of Administrator group membership will be performed;(Wen Jun)
 * [x] Workstations are locked down to prevent software installation or configuration modification by anyone other than the LIC or PO (Wen Jun)
 * Steps:
 * click Group policy managemen
@@ -69,7 +69,7 @@
 * click User account Control : Detect application installation and ....
 * [ ] Workstation names should follow the naming convention of LET-# asset tag (eg. 13573) (gonna do on Win10)
 * [ ] At least once a year, the workstation inventory information should be reviewed and updated for all workstations;
-* [ ] Periodic audits of workstations will be conducted to ensure that they remain in compliance; and
+* [ ] Periodic audits of workstations will be conducted to ensure that they remain in compliance; (Wen Jun) and
 * [ ] Any deviations from the approved configuration discovered in any audit must be corrected immediately.
 
 ## Domain Password Policy
