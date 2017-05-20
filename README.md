@@ -38,7 +38,7 @@
 * [ ] Prob have firewall block all, no remote access, no port opens (Shawn)
 * [ ] Admins must be able to login with the same password
 
-## OS and Applications
+## OS and Applications (Downloaded exc. OS & IE11)
 * [ ] OS: Windows 10 
 * [ ] AVG anti-virus (http://www.avg.com/ww-en/homepage)
 * [ ] Internet Explorer 11
