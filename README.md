@@ -27,15 +27,15 @@
 * [ ] Cameras - let them bring in
 
 ## Custom Requests
-* [ ] Internet access office all workstations - university's network lan cable, not wireless
-* [ ] Ppl cant plug anything into the lan cable - prob mac filtering (Shawn)
+* [x] Internet access office all workstations - university's network lan cable, not wireless
+* [x] Ppl cant plug anything into the lan cable - prob mac filtering (Shawn)
 * [ ] Caught locally storing data, will be scolded
 * [x] Try not to let users save stuff locally (Aloysius) (http://www.windowsnetworking.com/kbase/WindowsTips/Windows2003/AdminTips/Admin/SettingUpDiskQuotaswithGroupPolicy.html)
 * [ ] Physical policy - no personal keyboards, mouse, usb hard drive, esp those with on-board-storage, no personal usb peripherals
 * [x] Prevent usb from connecting / read write (Aloysius) (https://support.microsoft.com/en-us/help/555324)
 * [x] Passwords should be allowed to be changed to be users - after expiry (90 days mentioned below) will lock out user. Send reminder maybe a week before (Elroy)
 * [ ] Personal devices allowed inside - signed NDA (prob policy)
-* [ ] Prob have firewall block all, no remote access, no port opens
+* [ ] Prob have firewall block all, no remote access, no port opens (Shawn)
 * [ ] Admins must be able to login with the same password
 
 ## OS and Applications
@@ -53,7 +53,7 @@
 * [ ] LET Image will be reviewed by management periodically. You can download this from Blackboard > SPIM>Module Assessment.
 
 ## Workstation security configuration
-* [ ] All LET workstations will have an administrative account;
+* [x] All LET workstations will have an administrative account;
 * [x] Only the LIC and PO will have Administrator level access to workstations (Wen Jun)
 * [ ] Periodic reviews of Administrator group membership will be performed;(Wen Jun)
 * [x] Workstations are locked down to prevent software installation or configuration modification by anyone other than the LIC or PO (Wen Jun)
@@ -67,10 +67,10 @@
 * click local policies
 * click security options
 * click User account Control : Detect application installation and ....
-* [ ] Workstation names should follow the naming convention of LET-# asset tag (eg. 13573) (gonna do on Win10)
+* [x] Workstation names should follow the naming convention of LET-# asset tag (eg. 13573) (gonna do on Win10)
 * [ ] At least once a year, the workstation inventory information should be reviewed and updated for all workstations;
 * [ ] Periodic audits of workstations will be conducted to ensure that they remain in compliance; (Wen Jun) and
-* [ ] Any deviations from the approved configuration discovered in any audit must be corrected immediately.
+* [ ] Any deviations from the approved configuration discovered in any audit must be corrected immediately. (Shawn)
 
 ## Domain Password Policy
 
@@ -88,5 +88,5 @@
 * [ ] PO will manage centrally licensed software such as email, anti-virus, and application software.
 
 ## Data storage
-* [ ] Important files should be stored on a network server in the appropriate file share and not on the workstation.
+* [ ] Important files should be stored on a network server in the appropriate file share and not on the workstation. (Elroy)
 * [ ] Workstations are not backed up and are subject to re-image; therefore there is no guarantee that data stored on the workstation will be recovered in the event of system problems, loss or theft.
