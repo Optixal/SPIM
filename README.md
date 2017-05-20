@@ -68,7 +68,7 @@
 * click security options
 * click User account Control : Detect application installation and ....
 * [x] Workstation names should follow the naming convention of LET-# asset tag (eg. 13573) (gonna do on Win10)
-* [ ] At least once a year, the workstation inventory information should be reviewed and updated for all workstations;
+* [ ] At least once a year, the workstation inventory information should be reviewed and updated for all workstations; (https://technet.microsoft.com/en-us/library/gg712311.aspx) (Needs Testing)
 * [ ] Periodic audits of workstations will be conducted to ensure that they remain in compliance; (Wen Jun) and
 * [ ] Any deviations from the approved configuration discovered in any audit must be corrected immediately. (Shawn)
 
