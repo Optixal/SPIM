@@ -8,7 +8,7 @@
 * Rename server adapters to NAT and LAN respectively
 * Change server's LAN IP to a valid IP in VMware's host only subnet, gateway (blank/placeholder), DNS 127.0.0.1
 * Change server's NAT IP to a valid IP in VMware's NAT subnet, gateway VMware's gateway, DNS 127.0.0.1
-* Set client's IP to auto, DNS to point to server's LAN IP
+* Set client's IP to auto, DNS to point to server's ~~LAN~~ NAT IP
 * Add new role: DNS
 * Add new role: DHCP
 * Add new role: Remote Access
